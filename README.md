@@ -21,5 +21,5 @@ print(os.getenv('AUTH_TOKEN'))
 ACCOUNT_SSID = "********************************"
     - AUTH_TOKEN = "********************************"
     - TWILIO_NUMBER = "+14567891294"
-    - RECEIVER_NUMBER = "+919876543210"
+    - RECEIVER_NUMBER = "+639757008139"
 - Start the server for development `python3 main.py`
